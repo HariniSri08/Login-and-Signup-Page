@@ -1,0 +1,130 @@
+* {
+    font-family: sans-serif;
+
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.heading {
+    font-family: sans-serif;
+    text-align: center;
+    color: green;
+    font-size: 30px;
+}
+
+.login-box {
+    width: 40vw;
+    height: 45vh;
+    margin: auto;
+    border-radius: 2px;
+    background-color: white;
+
+
+}
+
+.Signup-box {
+    width: 40vw;
+    height: 60vh;
+    margin: auto;
+    border-radius: 2px;
+    background-color: white;
+
+}
+
+h1 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.formy {
+    width: 350px;
+    height: 300px;
+    margin-left: 20%;
+    margin-right: 22%;
+    justify-content: center;
+}
+
+form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 10px;
+    outline: none;
+
+
+}
+
+.btn {
+    width: 370px;
+    height: 35px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    border: none;
+
+}
+
+.btn:hover {
+    background-color: rgb(7, 41, 7);
+}
+
+.btn2 {
+    width: 370px;
+    height: 35px;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    border: none;
+
+}
+
+.btn2:hover {
+    background-color: rgb(7, 41, 7);
+
+
+}
+
+p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+    color: black;
+}
+
+.para-1 a {
+    color: green;
+}
+
+.para-2 {
+    text-align: right;
+  
+}
+.para-2 a {
+    color: green;
+}
+
+.checky {
+    margin-top: 6px;
+    margin-right: 300px;
+    accent-color: green;
+
+}
+
+#p2 {
+    margin-top: -18px
+}
